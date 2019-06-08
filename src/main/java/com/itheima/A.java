@@ -1,5 +1,7 @@
 package com.itheima;
 
+import javax.xml.bind.SchemaOutputResolver;
+
 /**
  * @Author: SongJunHui
  * email:1097772818@qq.com
@@ -11,6 +13,7 @@ public class A {
 
     public static void main(String[] args) {
         System.out.println("aaaaaaa");
+        System.out.println(666666);
     }
 
 }
